@@ -4,5 +4,5 @@ Description=Simple plymouth theme.
 ModuleName=script
 
 [script]
-ImageDir=/lib/plymouth/themes/maui-logo
-ScriptFile=/lib/plymouth/themes/nx-logo/maui-logo.script
+ImageDir=/usr/share/plymouth/themes/maui-logo
+ScriptFile=/usr/share/plymouth/themes/maui-logo/maui-logo.script
