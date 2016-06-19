@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Maui Logo
+Description=Simple plymouth theme.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/maui-logo
+ScriptFile=/lib/plymouth/themes/nx-logo/maui-logo.script
