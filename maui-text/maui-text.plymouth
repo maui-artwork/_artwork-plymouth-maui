@@ -1,0 +1,15 @@
+[Plymouth Theme]
+Name=Maui Text
+Description=Text mode theme
+modulename=maui-text
+
+[maui-text]
+title=Maui
+#   Background
+black=0x000000
+#   Title Text + Additional messages such as key interrupt
+white=0xFFFFFF
+# Dot coloring
+blue=0x2196F3
+#   Status message (fsck)
+blue=0x2196F3
