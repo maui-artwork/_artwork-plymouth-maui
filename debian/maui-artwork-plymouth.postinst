@@ -18,7 +18,6 @@
 
 case "$1" in
     configure)
-        
 	update-alternatives \
 		--install /usr/share/plymouth/themes/default.plymouth default.plymouth \
 		/usr/share/plymouth/themes/maui-logo/maui-logo.plymouth 150

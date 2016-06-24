@@ -14,4 +14,4 @@ Description: graphical boot animation and logger - maui-logo theme
  (even before the root filesystem is mounted!) that provides a graphical
  boot animation while the boot process happens in the background.
  .
- This package contains the default maui-logo theme.
+ This package contains the default maui-logo + maui-text themes.
