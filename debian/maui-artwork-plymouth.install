@@ -1,2 +1,2 @@
-maui-logo lib/plymouth/themes/
-maui-text lib/plymouth/themes/
+maui-logo usr/share/plymouth/themes/
+maui-text usr/share/plymouth/themes/
