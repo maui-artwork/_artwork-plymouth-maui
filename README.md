@@ -1,1 +1,3 @@
-# maui-plasma-plymouth
+# maui-artwork-plymouth
+
+Plymouth themes
