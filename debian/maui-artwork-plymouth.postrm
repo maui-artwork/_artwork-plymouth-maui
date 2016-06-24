@@ -40,10 +40,10 @@ case "$1" in
 	    update-initramfs -u
 	fi
 
-	if [ -e /boot/grub/grub.cfg ] && which update-grub2 >/dev/null 2>&1
-	then
-	    update-grub2
-	fi
+# 	if [ -e /boot/grub/grub.cfg ] && which update-grub2 >/dev/null 2>&1
+# 	then
+# 	    update-grub2
+# 	fi
 	plymouth-set-default-theme -R text
 	;;
 
