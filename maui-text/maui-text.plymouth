@@ -1,10 +1,10 @@
 [Plymouth Theme]
-Name=Maui Project Text
+Name=Maui Linux Text
 Description=Text mode theme based on maui-logo theme
 ModuleName=ubuntu-text
 
 [ubuntu-text]
-title=Maui Project
+title=Maui Linux
 black=0x263238
 white=0xffffff
 brown=0x03A9F4
