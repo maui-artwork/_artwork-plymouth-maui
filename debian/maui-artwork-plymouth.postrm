@@ -44,7 +44,10 @@ case "$1" in
 # 	then
 # 	    update-grub2
 # 	fi
-	plymouth-set-default-theme -R text
+	if [ -e /usr/sbin/plymouth-set-default-theme ] && which plymouth-set-default-theme >/dev/null 2>&1
+	then
+	    plymouth-set-default-theme -R text
+	fi
 	;;
 
     purge)
