@@ -1,11 +1,11 @@
-Source: maui-artwork-plymouth
+Source: artwork-plymouth-maui
 Section: x11
 Priority: optional
 Maintainer: Leszek Lesner <leszek@zevenos.com>
 Standards-Version: 3.7.3
 Build-Depends: debhelper (>= 6), dh-make
 
-Package: maui-artwork-plymouth
+Package: artwork-plymouth-maui
 Architecture: all
 Depends: ${misc:Depends}, plymouth, plymouth-themes
 Provides: plymouth-theme
